@@ -238,18 +238,18 @@ h3{
 #paysage{
   max-width: 1056px;
 }
+#paysage1-1{
+  display:flex;
+  justify-content: center;
+}
 #paysage2{
   max-width: 800px;
-  
-  
- 
- 
 }
 img{
   display: flex;
   max-width: inherit;
 }
-#paysage22{
+#paysage2-1{
   display:flex;
   justify-content: center;
 }
@@ -257,7 +257,7 @@ img{
   max-width: 800px;
   
 }
-#paysage33{
+#paysage3-1{
   display:flex;
   justify-content: center;
 }
@@ -266,7 +266,7 @@ img{
   max-width: 800px;
   
 }
-#paysage44{
+#paysage4-1{
   display:flex;
   justify-content: center;
 }
@@ -274,7 +274,7 @@ img{
   max-width: 700px;
   
 }
-#paysage55{
+#paysage5-1{
   display:flex;
   justify-content: center;
 }
@@ -284,7 +284,7 @@ img{
 
 }
 
-#paysage66{
+#paysage6-1{
   display:flex;
   justify-content: center;
 }
@@ -293,7 +293,7 @@ img{
   
 }
 
-#paysage77{
+#paysage7-1{
   display:flex;
   justify-content: center;
 }
@@ -301,7 +301,47 @@ img{
   max-width: 700px;
   
 }
-#paysage88{
+#paysage8-1{
+  display:flex;
+  justify-content: center;
+}
+#paysage9{
+  max-width: 700px;
+  
+}
+#paysage9-1{
+  display:flex;
+  justify-content: center;
+}
+#paysage10{
+  max-width: 700px;
+  
+}
+#paysage10-1{
+  display:flex;
+  justify-content: center;
+}
+#paysage11{
+  max-width: 700px;
+  
+}
+#paysage11-1{
+  display:flex;
+  justify-content: center;
+}
+#paysage12{
+  max-width: 700px;
+  
+}
+#paysage12-1{
+  display:flex;
+  justify-content: center;
+}
+#paysage13{
+  max-width: 700px;
+  
+}
+#paysage13-1{
   display:flex;
   justify-content: center;
 }
